@@ -12,14 +12,12 @@ This project builds machine learning models to predict students' academic perfor
 ## Dataset  
 The dataset includes student demographics, past academic records, and behavioral information. (You can link your dataset or mention the [UCI Student Performance dataset](https://archive.ics.uci.edu/ml/datasets/student+performance))
 
-## Installation  
-1. Clone the repository:  
-```bash
-git clone https://github.com/classrep12/Student-Performance-Prediction.git
-
 ## Results
 
 - Random Forest and XGBoost models achieved over **90% R² score** on the test dataset.
 - Feature importance analysis identified key predictors such as **attendance**, **study time**, and **parental education**.
 - The model can help educators identify at-risk students early to provide targeted support.
-
+## Installation  
+1. Clone the repository:  
+```bash
+git clone https://github.com/classrep12/Student-Performance-Predictor.git
