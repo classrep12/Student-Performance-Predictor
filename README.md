@@ -17,7 +17,9 @@ The dataset includes student demographics, past academic records, and behavioral
 ```bash
 git clone https://github.com/classrep12/Student-Performance-Prediction.git
 
-__##__ __Results__
-Random Forest and XGBoost achieved over 90% R² score on test data
+## Results
 
-Feature importance analysis revealed attendance, study time, and parental education as key predictors
+- Random Forest and XGBoost models achieved over **90% R² score** on the test dataset.
+- Feature importance analysis identified key predictors such as **attendance**, **study time**, and **parental education**.
+- The model can help educators identify at-risk students early to provide targeted support.
+
